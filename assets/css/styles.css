@@ -1,0 +1,22 @@
+body {
+	color: #ff0;
+	background: #000;
+	font-family: helvetica, georgia, times, sans-serif;
+	font-size: 20px;
+	/*margin: 50px;*/
+	/*margin: 20px 50px 20px 50px;*/
+	margin: 20px 50px;
+	
+
+}
+a {
+	color: #fff;
+}
+
+h1,h2 {
+	font-size: 20px;
+	font-weight: normal;
+	padding: 0;
+	margin: 0;
+}
+
